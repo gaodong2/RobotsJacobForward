@@ -1,0 +1,2 @@
+This project aims to provide a numerical inverse kinematics solution for 6 dof robots. If start point or end point is almost singular conventional jacobian approach is rarely solve it. So I refer to "Solvability-unconcerned Inverse Kinematics
+based on Levenberg-Marquardt method with Robust Damping" to find out a approximately solution. Note that the solution barely to find multi solutions, which meams, the solved joints of degree may not be your desired one if there are multi solutions. 
